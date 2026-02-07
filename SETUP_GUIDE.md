@@ -356,7 +356,7 @@ http://localhost:5173
 
 ## TESTING THE APPLICATION
 
-### 1. Product Management (NEW - CRUD Operations)
+### 1. Product Management (CRUD Operations)
 
 1. Click "📦 Manage Products"
 2. View existing products in the table
